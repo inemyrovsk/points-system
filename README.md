@@ -1,7 +1,7 @@
 Referral Fee Hook Purpose: Rewards users who bring new traders or LPs into the pool.
 
 How it works: Referrers get a small percentage of the swap fee every time their referred users trade or add liquidity. Example Use Case: Incentivizes organic growth through word-of-mouth promotion.
-
+### video https://www.youtube.com/watch?v=ET3ZeVBlNvo
 ##SETUP
 
 1. use this guide to setup project https://docs.uniswap.org/contracts/v4/quickstart/hooks/setup
